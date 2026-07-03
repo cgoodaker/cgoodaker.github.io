@@ -1178,4 +1178,4 @@ While predictive accuracy was relatively high, other modeling approaches could b
 
 Additionally, the hyperparameters of the Random Forest could also be tuned.  Notably, regularization parameters such as "tree depth" as well as potentially training on a higher number of Decision Trees (n_estimators) in the Random Forest could be used.
 
-From a data point of view, further variables could be collected and further feature engineering could be undertaken to ensuring as much useful information is available for predicting customer loyalty.
+From a data point of view, further variables could be collected and further feature engineering could be undertaken ensuring as much useful information is available for predicting customer loyalty.
