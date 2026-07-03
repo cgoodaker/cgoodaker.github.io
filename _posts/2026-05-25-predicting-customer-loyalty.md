@@ -741,7 +741,7 @@ print(adjusted_r_squared)
 The resulting *adjusted* r-squared score from this is **0.887**, which as expected is slightly lower than the score we got for r-squared on it's own.
 
 <br>
-### Decision Tree Regularisation <a name="regtree-model-regularisation"></a>
+### Decision Tree Regularization <a name="regtree-model-regularisation"></a>
 
 Decision Tree's can be prone to over-fitting, in other words, without any limits on their splitting, they will end up learning the training data perfectly.  A more *generalized* set of rules is preferred as this will be more robust & reliable when making predictions on "new" data.
 
